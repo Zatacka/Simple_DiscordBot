@@ -1,4 +1,7 @@
 # Discord_SimpleBot
-Import your Token inside Config.py
+
+Create a config.py file in root directory
+
+insert your Token inside config.py
 
 Adjust you commands in responses.py
